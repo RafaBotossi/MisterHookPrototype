@@ -1,0 +1,254 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MisterHookPrototype
+</name>
+</assembly>
+<members>
+<member name="T:MisterHookPrototype.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:MisterHookPrototype.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:MisterHookPrototype.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:MisterHookPrototype.My.Resources.Resources.SoftwareName">
+<summary>
+  Consulta uma cadeia de caracteres localizada semelhante a MisterHook.
+</summary>
+</member>
+<member name="T:MisterHookPrototype.FrmGeral">
+ <summary>
+ Classe do Formulário Geral
+ </summary>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.Initialize">
+ <summary>
+ Inicialização do sistema
+ </summary>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.FrmGeral_Load(System.Object,System.EventArgs)">
+ <summary>
+ Inicialização do sistema
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.NovoTesteToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ Menu Novo Teste
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.AbrirScriptToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ Abrir Script já criado
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.GravarScriptToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ Gravar Script já criado
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.SairToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ Sair do sistema
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.SobreToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ Abrir tela Sobre
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.FrmGeral_KeyDown(System.Object,System.Windows.Forms.KeyEventArgs)">
+ <summary>
+ Ao apertar atalho de teclado, realizar ação
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.TabFiles_KeyDown(System.Object,System.Windows.Forms.KeyEventArgs)">
+ <summary>
+ Ao apertar atalho de teclado, realizar ação
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.SetShortcutAction(System.Object,System.Windows.Forms.KeyEventArgs)">
+ <summary>
+ Ações a realizar ao apertar atalho no teclado
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.RecordTabStrip_Click(System.Object,System.EventArgs)">
+ <summary>
+ Gravar Script
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.StopTabStrip_Click(System.Object,System.EventArgs)">
+ <summary>
+ Parar Gravação
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.PlayTabStrip_Click(System.Object,System.EventArgs)">
+ <summary>
+ Reproduzir Gravação
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.NewTest">
+ <summary>
+ Criação de um novo teste
+ </summary>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.OpenScript">
+ <summary>
+ Aberta de Script
+ </summary>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.IsValidScript(System.String)">
+ <summary>
+ Verifica se o script é válido. Ficará sem desenvolvimento até a implementação do padrão de projeto Interpreter
+ </summary>
+ <param name="script"></param>
+ <returns></returns>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.GetTextFromFile(System.String)">
+ <summary>
+ Busca conteúdo do arquivo
+ </summary>
+ <param name="Filename"></param>
+ <returns></returns>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.SetRTBText(System.Int32,System.String)">
+ <summary>
+ Marca o conteúdo do RichTextBox
+ </summary>
+ <param name="tabPageIndex"></param>
+ <param name="rtbText"></param>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.SetTabText(System.Int32,System.String)">
+ <summary>
+ Grava o texto na Aba
+ </summary>
+ <param name="tabPageIndex"></param>
+ <param name="text"></param>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.GetScriptFilename">
+ <summary>
+ Abre tela para informar o nome do arquivo de Script
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.SaveScript">
+ <summary>
+ Salva o Script
+ </summary>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.GetSavedFileName">
+ <summary>
+ Abre tela para busca do script Salvo
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.GetRTBText(System.Int32)">
+ <summary>
+ Busca o texto do RichTextBox
+ </summary>
+ <param name="tabPageIndex"></param>
+ <returns></returns>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.StartRecording">
+ <summary>
+ Evento de início de Gravação.
+ </summary>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.StopRecording">
+ <summary>
+ Evento de Stop de gravação
+ </summary>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.PlayBack">
+ <summary>
+ Evento de Playback do que foi gravado.
+ </summary>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.Recorder_GetRecordedActions(System.String)">
+ <summary>
+ Set do script gravado no RichTextBox
+ </summary>
+ <param name="script"></param>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.ExitProgram">
+ <summary>
+ Finaliza o Programa
+ </summary>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.NotSavedFileExists">
+ <summary>
+ Verifica se o arquivo está gravado
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.OpenAbout">
+ <summary>
+ Abre tela Sobre
+ </summary>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.CreateNewTab">
+ <summary>
+ Cria nova Aba
+ </summary>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.rtb_TextChanged(System.Object,System.EventArgs)">
+ <summary>
+ Ao mudar o texto do RichTextBox, indica que não está gravado
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.FocusLastTab">
+ <summary>
+ Coloca Focus na Aba
+ </summary>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.SetStatusBarMessage(System.String)">
+ <summary>
+ Informa ao usuário a ação realizada no StatusBar
+ </summary>
+ <param name="msg"></param>
+</member>
+<member name="M:MisterHookPrototype.FrmGeral.tmrStatusBar_Tick(System.Object,System.EventArgs)">
+ <summary>
+ Remove o texto do StatusBar após alguns segundos
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>

@@ -1,0 +1,30 @@
+C:\Users\UNE-DEV01\Source\Repos\MisterHookPrototype\MisterHookPrototype\bin\Debug\MisterHookPrototype.exe.config
+C:\Users\UNE-DEV01\Source\Repos\MisterHookPrototype\MisterHookPrototype\bin\Debug\MisterHookPrototype.exe
+C:\Users\UNE-DEV01\Source\Repos\MisterHookPrototype\MisterHookPrototype\bin\Debug\MisterHookPrototype.pdb
+C:\Users\UNE-DEV01\Source\Repos\MisterHookPrototype\MisterHookPrototype\bin\Debug\MisterHookPrototype.xml
+C:\Users\UNE-DEV01\Source\Repos\MisterHookPrototype\MisterHookPrototype\obj\Debug\MisterHookPrototype.vbprojAssemblyReference.cache
+C:\Users\UNE-DEV01\Source\Repos\MisterHookPrototype\MisterHookPrototype\obj\Debug\MisterHookPrototype.Resources.resources
+C:\Users\UNE-DEV01\Source\Repos\MisterHookPrototype\MisterHookPrototype\obj\Debug\MisterHookPrototype.vbproj.GenerateResource.cache
+C:\Users\UNE-DEV01\Source\Repos\MisterHookPrototype\MisterHookPrototype\obj\Debug\MisterHookPrototype.exe
+C:\Users\UNE-DEV01\Source\Repos\MisterHookPrototype\MisterHookPrototype\obj\Debug\MisterHookPrototype.xml
+C:\Users\UNE-DEV01\Source\Repos\MisterHookPrototype\MisterHookPrototype\obj\Debug\MisterHookPrototype.pdb
+C:\Users\UNE-DEV01\Source\Repos\MisterHookPrototype\MisterHookPrototype\obj\Debug\MisterHookPrototype.FrmGeral.resources
+C:\Users\UNE-DEV01\Source\Repos\MisterHookPrototype\MisterHookPrototype\obj\Debug\MisterHookPrototype.FrmSobre.resources
+C:\Users\UNE-DEV01\Source\Repos\MisterHookPrototype\MisterHookPrototype\bin\Debug\Menulab.RichTextBox.dll
+C:\Users\UNE-DEV01\Source\Repos\MisterHookPrototype\MisterHookPrototype\obj\Debug\MisterHookPrototype.vbproj.CopyComplete
+C:\Users\UNE-DEV01\Source\Repos\Nova pasta\MisterHookPrototype\MisterHookPrototype\obj\Debug\MisterHookPrototype.vbprojAssemblyReference.cache
+C:\Users\UNE-DEV01\Source\Repos\Nova pasta\MisterHookPrototype\MisterHookPrototype\obj\Debug\MisterHookPrototype.FrmGeral.resources
+C:\Users\UNE-DEV01\Source\Repos\Nova pasta\MisterHookPrototype\MisterHookPrototype\obj\Debug\MisterHookPrototype.FrmSobre.resources
+C:\Users\UNE-DEV01\Source\Repos\Nova pasta\MisterHookPrototype\MisterHookPrototype\obj\Debug\MisterHookPrototype.Resources.resources
+C:\Users\UNE-DEV01\Source\Repos\Nova pasta\MisterHookPrototype\MisterHookPrototype\obj\Debug\MisterHookPrototype.vbproj.GenerateResource.cache
+C:\Users\UNE-DEV01\Source\Repos\Nova pasta\MisterHookPrototype\MisterHookPrototype\obj\Debug\MisterHookPrototype.exe
+C:\Users\UNE-DEV01\Source\Repos\Nova pasta\MisterHookPrototype\MisterHookPrototype\obj\Debug\MisterHookPrototype.xml
+C:\Users\UNE-DEV01\Source\Repos\Nova pasta\MisterHookPrototype\MisterHookPrototype\obj\Debug\MisterHookPrototype.pdb
+C:\Users\UNE-DEV01\Source\Repos\Nova pasta\MisterHookPrototype\MisterHookPrototype\bin\Debug\MisterHookPrototype.exe.config
+C:\Users\UNE-DEV01\Source\Repos\Nova pasta\MisterHookPrototype\MisterHookPrototype\bin\Debug\MisterHookPrototype.exe
+C:\Users\UNE-DEV01\Source\Repos\Nova pasta\MisterHookPrototype\MisterHookPrototype\bin\Debug\MisterHookPrototype.pdb
+C:\Users\UNE-DEV01\Source\Repos\Nova pasta\MisterHookPrototype\MisterHookPrototype\bin\Debug\MisterHookPrototype.xml
+C:\Users\UNE-DEV01\Source\Repos\Nova pasta\MisterHookPrototype\MisterHookPrototype\bin\Debug\MisterHookLibrary.dll
+C:\Users\UNE-DEV01\Source\Repos\Nova pasta\MisterHookPrototype\MisterHookPrototype\bin\Debug\MisterHookLibrary.pdb
+C:\Users\UNE-DEV01\Source\Repos\Nova pasta\MisterHookPrototype\MisterHookPrototype\bin\Debug\MisterHookLibrary.xml
+C:\Users\UNE-DEV01\Source\Repos\Nova pasta\MisterHookPrototype\MisterHookPrototype\obj\Debug\MisterHookPrototype.vbproj.CopyComplete
